@@ -1,4 +1,4 @@
 testrepo
 ========
 
-Test Repository
+Test Repository version 1
